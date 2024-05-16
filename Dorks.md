@@ -13,6 +13,7 @@
 5. intext:”internal use only” OR intext:”not for public release” filetype:doc
 
 <br>
+
 ### Corporate Communications:
 6. intext:”CEO” OR intext:”CFO” OR intext:”COO” intitle:”email” filetype:txt
 
@@ -25,6 +26,7 @@
 10. intitle:”internal memo” OR intitle:”confidential communication” intext:”HR” filetype:doc
 
 <br>
+
 ### Financial Records:
 11. intext:”financial report” intitle:”company name” OR intitle:”quarterly” filetype:pdf
 
@@ -37,6 +39,7 @@
 15. intext:”tax return” OR intext:”audit report” intitle:”restricted” filetype:pdf
 
 <br>
+
 ### Employee Information:
 16. intext:”employee directory” OR intext:”HR records” intitle:”confidential” filetype:xlsx
 
@@ -49,6 +52,7 @@
 20. intitle:”personnel file” OR intitle:”staff records” intext:”confidential” filetype:doc
 
 <br>
+
 ### Sensitive Infrastructure Data:
 21. intext:”security plan” OR intext:”network layout” intitle:”confidential” filetype:pdf
 
