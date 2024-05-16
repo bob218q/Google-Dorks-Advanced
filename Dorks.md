@@ -3,7 +3,7 @@
 ### Confidential Documents:
 1. intext:”confidential” intitle:”filetype:xls OR filetype:xlsx OR filetype:csv” <br>
 
-2. intitle:”classified” OR intitle:”top secret” intext:”password” filetype:pdf
+2. intitle:”classified” OR intitle:”top secret” intext:”password” filetype:pdf <br>
 
 3. intext:”client data” OR intext:”customer details” intitle:”confidential” filetype:docx
 
