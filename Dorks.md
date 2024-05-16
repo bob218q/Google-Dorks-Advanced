@@ -1,6 +1,5 @@
 ## Google Dorks Advanced
 
-
 ### Confidential Documents:
 1. intext:”confidential” intitle:”filetype:xls OR filetype:xlsx OR filetype:csv” <br>
 
@@ -11,7 +10,6 @@
 4. intitle:”confidential” OR intitle:”restricted” intext:”salary” filetype:pdf
 
 5. intext:”internal use only” OR intext:”not for public release” filetype:doc
-
 <br>
 
 ### Corporate Communications:
@@ -24,7 +22,6 @@
 9. intext:”marketing strategy” OR intext:”business development” intitle:”confidential” filetype:pdf
 
 10. intitle:”internal memo” OR intitle:”confidential communication” intext:”HR” filetype:doc
-
 <br>
 
 ### Financial Records:
@@ -50,7 +47,6 @@
 19. intitle:”performance review” OR intitle:”disciplinary action” intext:”confidential” filetype:pdf
 
 20. intitle:”personnel file” OR intitle:”staff records” intext:”confidential” filetype:doc
-
 <br>
 
 ### Sensitive Infrastructure Data:
