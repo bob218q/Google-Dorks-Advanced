@@ -1,5 +1,6 @@
 ## Google Dorks Advanced
 
+
 ### Confidential Documents:
 1. intext:”confidential” intitle:”filetype:xls OR filetype:xlsx OR filetype:csv” <br>
 
