@@ -1,7 +1,6 @@
-### Google-Dorks-Advanced
+## Google Dorks Advanced
 
-Confidential Documents:
-
+### Confidential Documents:
 1. intext:”confidential” intitle:”filetype:xls OR filetype:xlsx OR filetype:csv”
 
 2. intitle:”classified” OR intitle:”top secret” intext:”password” filetype:pdf
@@ -13,8 +12,7 @@ Confidential Documents:
 5. intext:”internal use only” OR intext:”not for public release” filetype:doc
 
 
-Corporate Communications:
-
+### Corporate Communications:
 6. intext:”CEO” OR intext:”CFO” OR intext:”COO” intitle:”email” filetype:txt
 
 7. intitle:”board meeting” OR intitle:”shareholder report” intext:”draft” filetype:pdf
@@ -25,8 +23,8 @@ Corporate Communications:
 
 10. intitle:”internal memo” OR intitle:”confidential communication” intext:”HR” filetype:doc
 
-Financial Records:
 
+### Financial Records:
 11. intext:”financial report” intitle:”company name” OR intitle:”quarterly” filetype:pdf
 
 12. intext:”investment portfolio” OR intext:”bank statement” intitle:”confidential” filetype:pdf
@@ -38,8 +36,7 @@ Financial Records:
 15. intext:”tax return” OR intext:”audit report” intitle:”restricted” filetype:pdf
 
 
-Employee Information:
-
+### Employee Information:
 16. intext:”employee directory” OR intext:”HR records” intitle:”confidential” filetype:xlsx
 
 17. intext:”resume” OR intext:”CV” OR intext:”job application” filetype:pdf
@@ -51,8 +48,7 @@ Employee Information:
 20. intitle:”personnel file” OR intitle:”staff records” intext:”confidential” filetype:doc
 
 
-Sensitive Infrastructure Data:
-
+### Sensitive Infrastructure Data:
 21. intext:”security plan” OR intext:”network layout” intitle:”confidential” filetype:pdf
 
 22. intitle:”building plans” OR intitle:”facility layout” intext:”restricted” filetype:docx
